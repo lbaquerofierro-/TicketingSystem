@@ -1,5 +1,5 @@
 # TicketingSystem
-##Assumptions: 
+## Assumptions: 
 
 Testing venue has 6 columns and 8 rows, the best row is the first one and the worst is the last one. 
 
